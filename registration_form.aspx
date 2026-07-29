@@ -10,7 +10,7 @@
             width: 100%;
         }
         .auto-style2 {
-            width: 751px;
+            width: 547px;
         }
     </style>
 </head>
@@ -21,7 +21,7 @@
         <table class="auto-style1">
             <tr>
                 <td class="auto-style2"align="right">
-                    <asp:Label ID="txt_id" runat="server" Font-Bold="True" Font-Size="X-Large" Text="Enter I'D"></asp:Label>
+                    <asp:Label ID="id" runat="server" Font-Bold="True" Font-Size="X-Large" Text="Enter I'D"></asp:Label>
                 </td>
                 <td>
                     <asp:TextBox ID="TextBox1" runat="server" Font-Size="Large"></asp:TextBox>
